@@ -1,3 +1,34 @@
-* {
-    color: brown;
+ol{
+    color: rgb(0, 126, 73);
+}
+ul{
+    color: rgb(0, 65, 77);
+}
+h1{
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.chicken{
+    color: rgb(85, 50, 4);
+}
+.miam{
+    color: rgb(121, 103, 0);
+}
+.limonade{
+    color: rgb(193, 196, 47);
+}
+p{
+    font-style: italic;
+}
+h3{
+    font-size: 25px;
+    color: tomato;
+
+}
+*{
+    font-family: 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    
 }
