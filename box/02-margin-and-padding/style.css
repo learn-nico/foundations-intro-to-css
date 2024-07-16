@@ -1,38 +1,50 @@
 body {
-    background: #eee;
-    font-family: sans-serif;
-  }
-  
-  .card {
-    width: 400px;
-    background: #fff;
-    margin: 16px auto;
-  }
-  
-  .title {
-    background: #e3f4ff;
-    font-size: 16px;
-  }
-  
-  .content {
-    background: #e3f4ff;
-    0
-  }
-  
-  .button-container {
-    background: #e3f4ff;
-    
-  }
-  
-  button {
-    background: white;
-    border: 1px solid #eee;
-    padding-left: 24px;
-    padding-right: 24px;
-    padding-top: 8px;
-    padding-bottom: 8px;
-    display: block
-    
-    
+  background: #eee;
+  font-family: sans-serif;
+}
 
-  }
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  
+}
+
+.title {
+  background: #e3f4ff;
+  font-size: 16px;
+}
+
+.content {
+  background: #e3f4ff;
+}
+
+.button-container {
+  background: #e3f4ff;
+  margin-top: 8px;
+  align-items: center;
+  text-align: center;
+}
+
+button {
+  background: white;
+  border: 1px solid #eee;
+}
+
+button{
+  display: block;
+  padding-left:24px ;
+  padding-right: 24px;
+  padding-bottom: 8px;
+  align-items: center;
+  margin: 0 auto;
+  
+  
+  
+  
+  
+}
+
+*{
+  padding: 8px;
+}
