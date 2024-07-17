@@ -9,3 +9,5 @@ The Big Button has 24px space on the sides, and 8px on top and bottom.
 Il y a un espace de 8 px entre chacune des sections bleues à l’intérieur de la carte.
 Le Gros Bouton est centré sur sa propre ligne.
 Le Big Button a un espace de 24 pixels sur les côtés et de 8 pixels en haut et en bas.
+
+# a faire le 18/07/2024
